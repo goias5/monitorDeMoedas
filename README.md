@@ -1,1 +1,3 @@
 # monitorDeMoedas
+
+Foi feito o monitoramento da moeda dólar, que é a que achei ser a única de meu interesse atualmente, devido ao fato de eu jogar poker e receber o dinheiro em dólar. É um programa bem simples feito em java com fx, e que, ao escolher a data, são exibidos dados da moeda, cotação e variação nos últimos 7,30, e 180 dias. Pode ser que venha a ser aprimorado e melhorado visualmente e também funcionalmente no futuro, porém devido à baixa disponibilidade de tempo, foi feito seguindo o que o cliente(professor) pediu, monitorando uma moeda qualquer, no caso o dólar, e sem tentar inventar ou incrementar muito.
